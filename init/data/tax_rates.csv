@@ -1,0 +1,6 @@
+region,category,rate,rules
+US-CA,Electronics,9.25,Standard California tax
+US-NY,Electronics,8.875,NYC local tax applies
+US-TX,Electronics,6.25,State base rate
+EU-DE,Electronics,19.00,Standard VAT
+EU-FR,Electronics,20.00,Standard VAT
